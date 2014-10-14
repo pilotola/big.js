@@ -1,7 +1,7 @@
 {
   "name": "bigjs",
   "version": "2.5.1",
-  "main": "big.js",
+  "main": "./big.js",
   "ignore": [
     ".*",
     "/*.min.*",
