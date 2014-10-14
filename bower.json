@@ -1,6 +1,6 @@
 {
   "name": "bigjs",
-  "version": "2.5.2",
+  "version": "2.5.3",
   "main": "./big.js",
   "ignore": [
     ".*",
@@ -9,6 +9,6 @@
 	"README*.*",
     "doc",
     "perf",
-    "test",
+    "test"
   ]
 }
